@@ -1,5 +1,8 @@
 # CLI Calculator Application using C++
 
+## `./cli-clac.exe` for Windows, `./cli-clac` for Linux 
+#### NOTE: ADD THIS BINARIES TO AVOID THIS `./` BEFORE THE COMMAND
+
 ## Commands
 #### Usage: calc [option] [arguments]
 #### Options:
