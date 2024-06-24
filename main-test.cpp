@@ -6,7 +6,7 @@ using namespace std;
 
 void printHelp()
 {
-    cout << "\n\t| cli-calc |\ncopyright(c)2024 \nAuthor-Soumya Chakraborty\n";
+    cout << "\n\t| test-cli-calc |\ncopyright(c)2024 \nAuthor-Soumya Chakraborty\n";
     cout << "Usage: calc [option] [arguments]\n";
     cout << "Options:\n";
     cout << "  -h, --help                          Show this help message\n";
